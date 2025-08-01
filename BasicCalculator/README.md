@@ -1,4 +1,4 @@
-# Basic Calculator 🔢
+# Basic Calculator 
 
 A simple command-line calculator that performs basic arithmetic operations: Addition, Subtraction, Division, and Multiplication. Built using `switch-case` in Java to practice conditional logic and user input handling.
 
