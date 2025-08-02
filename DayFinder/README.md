@@ -7,6 +7,7 @@ This is a Java console-based program that determines the **day of the week** for
 ##  How Zeller’s Congruence Works
 
 Zeller’s Congruence is an algorithm devised by Christian Zeller to calculate the **day of the week** for any given date. The formula for dates in the Gregorian calendar is:
+
 h = (q + [13(m + 1)/5] + K + [K/4] + [J/4] + 5J) mod 7.
 
 Where:
@@ -44,5 +45,6 @@ Where:
   - Leap year handling.
   - Calculates day for any given date using Zeller’s formula.
   - Beginner-friendly logic and code structure.
+
 
 
