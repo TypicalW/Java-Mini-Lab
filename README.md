@@ -2,13 +2,13 @@
 
 This repository contains a collection of small Java-based projects created for academic learning and hands-on practice. Each project demonstrates basic programming concepts such as user input, control structures, and conditional logic.
 
----
-
 ## Projects
+
+---
 
 ### 1. Basic Calculator
 
-A simple calculator built in Java using `switch-case` statements.
+A simple calculator built in Java using switch-case statements.
 
 **Features:**
 - Performs basic arithmetic operations: Addition, Subtraction, Multiplication, Division
@@ -32,5 +32,14 @@ A Java program to check whether a given string is a palindrome.
 
 ---
 
+### 3. Day Finder
 
+A Java console application that determines the day of the week for any given valid date using Zeller’s Congruence algorithm.
 
+**Features:**
+- Accepts user input for day, month, and year
+- Validates leap years and correct number of days in each month
+- Uses mathematical logic to compute the weekday
+- Outputs the correct day of the week (e.g., "Monday", "Saturday")
+
+**Directory:** `/dayfinder`
